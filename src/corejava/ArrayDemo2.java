@@ -29,13 +29,13 @@ public class ArrayDemo2 {
 
         for (int i = 0; i < len1; i++) ;
         {
-            System.out.println(array[i]);
+           // System.out.println(array[i]);
         }
 
       Arrays.sort(array);
         for (int i = 0; i < len1; i++) ;
         {
-            System.out.println(array[i]);
+           // System.out.println(array[i]);
         }
         //System.arraycopy(src, srcPos,dest, destPos, length);
 

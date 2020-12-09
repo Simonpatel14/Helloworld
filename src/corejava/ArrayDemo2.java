@@ -45,7 +45,7 @@ public class ArrayDemo2 {
 
             System.out.println("Eat samosa");
         }
-       
+
 
     }
 }

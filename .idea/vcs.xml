@@ -6,5 +6,7 @@
     <mapping directory="$PROJECT_DIR$/JavaProgramme" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/corejava" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/corejava/JavaProgramme" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/day1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/src/corejava" vcs="Git" />
   </component>
 </project>
